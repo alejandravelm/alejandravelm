@@ -1,4 +1,4 @@
-🌱 avid bioengineer, new to github :)
+🌱 biotech, new to github :)
 
 <!--
 **alejandravelm/alejandravelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
